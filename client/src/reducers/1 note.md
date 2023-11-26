@@ -1,0 +1,5 @@
+- here, in all folders:
+- there is no named "STORE" (like: initialCakeState, initialIceCreamState)
+- here, the state we use is having 
+- { data: null }
+- according to the respective ACTION, we insert data to "data : " via payload provided
